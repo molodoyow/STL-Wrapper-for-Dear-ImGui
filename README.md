@@ -1,6 +1,6 @@
 # Standard Template Library Wrapper for Dear ImGui Library
 Dear ImGui - Bloat-free Graphical User interface for C++ with minimal dependencies
-## API Overview
+## API overview
 ```cpp
 void Text(std::string_view label);
 void TextWrapped(std::string_view label);
